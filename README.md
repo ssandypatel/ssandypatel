@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a junior undergrad at IIT Gandhinagar in Electrical Engineering. <br>My interest fields are data science and software development.
-<img align="right" alt = "image" width = "400" src = "https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+<img align="right" alt = "image" width = "400" src = "https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" border = "5">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100056211633081&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_ssandy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-patel-508503203/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BAA7ZC1vDSUWfijan9i%2BEww%3D%3D) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Sandeep59364163) 
