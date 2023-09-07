@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a junior undergrad at IIT Gandhinagar in Electrical Engineering. <br>My interest fields are data science and software development.
+I am a Senior undergrad at IIT Gandhinagar pursuing major in Electrical Engineering and minor in Computer science and engineering. <br>My interest fields are data science and software development.
 <img align="right" alt = "image" width = "400" src = "https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" border = "5">
 
 ## 🌐 Socials:
