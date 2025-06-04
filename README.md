@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am a Senior undergrad at IIT Gandhinagar pursuing major in Electrical Engineering and minor in Computer science and engineering. <br>My interest fields are ML/AI and software development.
+I am an IIT Gandhinagar graduate with a major in Electrical Engineering and a minor in Computer Science and Engineering.
+I am a Full Stack Developer with a specialization in Python and Go (Golang), bringing a strong foundation in software development and practical experience in machine learning (ML) and artificial intelligence (AI). With a passion for building scalable and efficient systems, I thrive at the intersection of intelligent systems and robust backend architecture.
+
+My core competencies span the entire software development lifecycle, from database design and RESTful API development to modern frontend interfaces and production-grade deployments. I have contributed to and led initiatives involving data-driven systems, AI/ML model integration, and cloud-native applications using technologies such as Docker, Kubernetes, AWS, and Google Cloud Platform (GCP).
+
+I enjoy working on products that solve real-world problems using intelligent automation and learning systems. My experience includes implementing ML pipelines, integrating AI models into web applications, and optimizing backend services for performance and reliability.
 <img align="right" alt = "image" width = "400" src = "https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" border = "5">
 
 ## 🌐 Socials:
